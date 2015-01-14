@@ -1,0 +1,5 @@
+The shell command "mv" can be used to move files around different directories.
+
+e.g. mv README ~/Projects/command-line
+
+This command would move the file README from your current directory to the directory Projects/command-line .
