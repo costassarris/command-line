@@ -1,0 +1,5 @@
+The shell command "wc" can be used to perform a count of words, letters or lines in a file.
+
+e.g. wc -l README
+
+This command would output the number of lines in the file README.
