@@ -1,0 +1,5 @@
+The shell command "grep" can be used to search for a specific string in a file and will return the entire line.
+
+e.g. grep password README
+
+This command would output the every line in the file README containing the word password.
